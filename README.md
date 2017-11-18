@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# web-presentation
 
-You can use the [editor on GitHub](https://github.com/kinlane/beforeeighteen/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Project is designed to quickly build presentation as a web page.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To create your presentation just fork this repository.
 
-### Markdown
+presentation example https://deepidea.github.io/web-presentation/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+**NOTES**
 
-# Header 1
-## Header 2
-### Header 3
+- Files names should start with valid  year-month-day format (f.e. 1000-01-01-example.md)
 
-- Bulleted
-- List
+- Years will be displayed horizontally  
 
-1. Numbered
-2. List
+- Months will be displayed as vertical navigation in a given year
 
-**Bold** and _Italic_ and `Code` text
+- Presentation pages will be displayed in chronological order
 
-[Link](url) and ![Image](src)
-```
+- Githib pages will automatically generate/update website with presentation for you (please wait up to 1 minute)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kinlane/beforeeighteen/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Enjoy
