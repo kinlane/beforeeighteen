@@ -1,10 +1,10 @@
-# web-presentation
+# Web Presentation
 
 Project is designed to quickly build presentation as a web page.
 
 To create your presentation just fork this repository.
 
-presentation example https://deepidea.github.io/web-presentation/
+URL: https://kinlane.github.io/beforeeighteen/#/
 
 
 **NOTES**
